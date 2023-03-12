@@ -1,0 +1,25 @@
+body {
+    color: royalblue;
+    background: white;
+    padding: 0 1em 1em;
+    width: 400px;
+    margin: 10px auto 30px auto;
+  }
+
+h1 {
+    margin: 0;
+    line-height: 2;
+    text-align: center;
+ }
+
+input {
+    position: absolute;
+    opacity: 0;
+    z-index: -1;
+  } 
+
+img {
+    width: 400px;
+    height: auto;
+}
+
